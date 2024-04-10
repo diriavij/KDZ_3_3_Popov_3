@@ -1,0 +1,259 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\foma9\\RiderProjects\\KDZ_3_3_Popov_3\\UserInteractionBot\\UserInteractionBot.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\foma9\\RiderProjects\\KDZ_3_3_Popov_3\\AttractionLibrary\\AttractionLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\foma9\\RiderProjects\\KDZ_3_3_Popov_3\\AttractionLibrary\\AttractionLibrary.csproj",
+        "projectName": "AttractionLibrary",
+        "projectPath": "C:\\Users\\foma9\\RiderProjects\\KDZ_3_3_Popov_3\\AttractionLibrary\\AttractionLibrary.csproj",
+        "packagesPath": "C:\\Users\\foma9\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\foma9\\RiderProjects\\KDZ_3_3_Popov_3\\AttractionLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\foma9\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\foma9\\RiderProjects\\KDZ_3_3_Popov_3\\BotClientLibrary\\BotClientLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\foma9\\RiderProjects\\KDZ_3_3_Popov_3\\BotClientLibrary\\BotClientLibrary.csproj",
+        "projectName": "BotClientLibrary",
+        "projectPath": "C:\\Users\\foma9\\RiderProjects\\KDZ_3_3_Popov_3\\BotClientLibrary\\BotClientLibrary.csproj",
+        "packagesPath": "C:\\Users\\foma9\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\foma9\\RiderProjects\\KDZ_3_3_Popov_3\\BotClientLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\foma9\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\foma9\\RiderProjects\\KDZ_3_3_Popov_3\\AttractionLibrary\\AttractionLibrary.csproj": {
+                "projectPath": "C:\\Users\\foma9\\RiderProjects\\KDZ_3_3_Popov_3\\AttractionLibrary\\AttractionLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\foma9\\RiderProjects\\KDZ_3_3_Popov_3\\LoggerLibrary\\LoggerLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\foma9\\RiderProjects\\KDZ_3_3_Popov_3\\LoggerLibrary\\LoggerLibrary.csproj",
+        "projectName": "LoggerLibrary",
+        "projectPath": "C:\\Users\\foma9\\RiderProjects\\KDZ_3_3_Popov_3\\LoggerLibrary\\LoggerLibrary.csproj",
+        "packagesPath": "C:\\Users\\foma9\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\foma9\\RiderProjects\\KDZ_3_3_Popov_3\\LoggerLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\foma9\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[9.0.0-preview.2.24128.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\foma9\\RiderProjects\\KDZ_3_3_Popov_3\\UserInteractionBot\\UserInteractionBot.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\foma9\\RiderProjects\\KDZ_3_3_Popov_3\\UserInteractionBot\\UserInteractionBot.csproj",
+        "projectName": "UserInteractionBot",
+        "projectPath": "C:\\Users\\foma9\\RiderProjects\\KDZ_3_3_Popov_3\\UserInteractionBot\\UserInteractionBot.csproj",
+        "packagesPath": "C:\\Users\\foma9\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\foma9\\RiderProjects\\KDZ_3_3_Popov_3\\UserInteractionBot\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\foma9\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\foma9\\RiderProjects\\KDZ_3_3_Popov_3\\BotClientLibrary\\BotClientLibrary.csproj": {
+                "projectPath": "C:\\Users\\foma9\\RiderProjects\\KDZ_3_3_Popov_3\\BotClientLibrary\\BotClientLibrary.csproj"
+              },
+              "C:\\Users\\foma9\\RiderProjects\\KDZ_3_3_Popov_3\\LoggerLibrary\\LoggerLibrary.csproj": {
+                "projectPath": "C:\\Users\\foma9\\RiderProjects\\KDZ_3_3_Popov_3\\LoggerLibrary\\LoggerLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[9.0.0-preview.2.24128.5, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[9.0.0-preview.2.24128.5, )"
+            },
+            "Telegram.Bot": {
+              "target": "Package",
+              "version": "[20.0.0-alpha.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

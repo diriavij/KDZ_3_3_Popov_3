@@ -1,0 +1,15 @@
+C:\Users\foma9\RiderProjects\KDZ_3_3_Popov_3\BotClientLibrary\bin\Release\net6.0\BotClientLibrary.deps.json
+C:\Users\foma9\RiderProjects\KDZ_3_3_Popov_3\BotClientLibrary\bin\Release\net6.0\BotClientLibrary.dll
+C:\Users\foma9\RiderProjects\KDZ_3_3_Popov_3\BotClientLibrary\bin\Release\net6.0\BotClientLibrary.pdb
+C:\Users\foma9\RiderProjects\KDZ_3_3_Popov_3\BotClientLibrary\bin\Release\net6.0\AttractionLibrary.dll
+C:\Users\foma9\RiderProjects\KDZ_3_3_Popov_3\BotClientLibrary\bin\Release\net6.0\AttractionLibrary.pdb
+C:\Users\foma9\RiderProjects\KDZ_3_3_Popov_3\BotClientLibrary\obj\Release\net6.0\BotClientLibrary.csproj.AssemblyReference.cache
+C:\Users\foma9\RiderProjects\KDZ_3_3_Popov_3\BotClientLibrary\obj\Release\net6.0\BotClientLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foma9\RiderProjects\KDZ_3_3_Popov_3\BotClientLibrary\obj\Release\net6.0\BotClientLibrary.AssemblyInfoInputs.cache
+C:\Users\foma9\RiderProjects\KDZ_3_3_Popov_3\BotClientLibrary\obj\Release\net6.0\BotClientLibrary.AssemblyInfo.cs
+C:\Users\foma9\RiderProjects\KDZ_3_3_Popov_3\BotClientLibrary\obj\Release\net6.0\BotClientLibrary.csproj.CoreCompileInputs.cache
+C:\Users\foma9\RiderProjects\KDZ_3_3_Popov_3\BotClientLibrary\obj\Release\net6.0\BotClientLibrary.csproj.CopyComplete
+C:\Users\foma9\RiderProjects\KDZ_3_3_Popov_3\BotClientLibrary\obj\Release\net6.0\BotClientLibrary.dll
+C:\Users\foma9\RiderProjects\KDZ_3_3_Popov_3\BotClientLibrary\obj\Release\net6.0\refint\BotClientLibrary.dll
+C:\Users\foma9\RiderProjects\KDZ_3_3_Popov_3\BotClientLibrary\obj\Release\net6.0\BotClientLibrary.pdb
+C:\Users\foma9\RiderProjects\KDZ_3_3_Popov_3\BotClientLibrary\obj\Release\net6.0\ref\BotClientLibrary.dll

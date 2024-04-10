@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BotClientLibrary/1.0.0": {
+        "dependencies": {
+          "AttractionLibrary": "1.0.0"
+        },
+        "runtime": {
+          "BotClientLibrary.dll": {}
+        }
+      },
+      "AttractionLibrary/1.0.0": {
+        "runtime": {
+          "AttractionLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BotClientLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AttractionLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

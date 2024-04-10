@@ -1,0 +1,15 @@
+C:\Users\foma9\RiderProjects\KDZ_3_3_Popov_3\BotClientLibrary\bin\Release\net6.0\ubuntu.22.04-x64\BotClientLibrary.deps.json
+C:\Users\foma9\RiderProjects\KDZ_3_3_Popov_3\BotClientLibrary\bin\Release\net6.0\ubuntu.22.04-x64\BotClientLibrary.dll
+C:\Users\foma9\RiderProjects\KDZ_3_3_Popov_3\BotClientLibrary\bin\Release\net6.0\ubuntu.22.04-x64\BotClientLibrary.pdb
+C:\Users\foma9\RiderProjects\KDZ_3_3_Popov_3\BotClientLibrary\bin\Release\net6.0\ubuntu.22.04-x64\AttractionLibrary.dll
+C:\Users\foma9\RiderProjects\KDZ_3_3_Popov_3\BotClientLibrary\bin\Release\net6.0\ubuntu.22.04-x64\AttractionLibrary.pdb
+C:\Users\foma9\RiderProjects\KDZ_3_3_Popov_3\BotClientLibrary\obj\Release\net6.0\ubuntu.22.04-x64\BotClientLibrary.csproj.AssemblyReference.cache
+C:\Users\foma9\RiderProjects\KDZ_3_3_Popov_3\BotClientLibrary\obj\Release\net6.0\ubuntu.22.04-x64\BotClientLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foma9\RiderProjects\KDZ_3_3_Popov_3\BotClientLibrary\obj\Release\net6.0\ubuntu.22.04-x64\BotClientLibrary.AssemblyInfoInputs.cache
+C:\Users\foma9\RiderProjects\KDZ_3_3_Popov_3\BotClientLibrary\obj\Release\net6.0\ubuntu.22.04-x64\BotClientLibrary.AssemblyInfo.cs
+C:\Users\foma9\RiderProjects\KDZ_3_3_Popov_3\BotClientLibrary\obj\Release\net6.0\ubuntu.22.04-x64\BotClientLibrary.csproj.CoreCompileInputs.cache
+C:\Users\foma9\RiderProjects\KDZ_3_3_Popov_3\BotClientLibrary\obj\Release\net6.0\ubuntu.22.04-x64\BotClientLibrary.csproj.CopyComplete
+C:\Users\foma9\RiderProjects\KDZ_3_3_Popov_3\BotClientLibrary\obj\Release\net6.0\ubuntu.22.04-x64\BotClientLibrary.dll
+C:\Users\foma9\RiderProjects\KDZ_3_3_Popov_3\BotClientLibrary\obj\Release\net6.0\ubuntu.22.04-x64\refint\BotClientLibrary.dll
+C:\Users\foma9\RiderProjects\KDZ_3_3_Popov_3\BotClientLibrary\obj\Release\net6.0\ubuntu.22.04-x64\BotClientLibrary.pdb
+C:\Users\foma9\RiderProjects\KDZ_3_3_Popov_3\BotClientLibrary\obj\Release\net6.0\ubuntu.22.04-x64\ref\BotClientLibrary.dll

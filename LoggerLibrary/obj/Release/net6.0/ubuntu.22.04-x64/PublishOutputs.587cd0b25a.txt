@@ -1,0 +1,10 @@
+C:\Users\foma9\RiderProjects\KDZ_3_3_Popov_3\LoggerLibrary\bin\Release\net6.0\ubuntu.22.04-x64\publish\LoggerLibrary.dll
+C:\Users\foma9\RiderProjects\KDZ_3_3_Popov_3\LoggerLibrary\bin\Release\net6.0\ubuntu.22.04-x64\publish\LoggerLibrary.deps.json
+C:\Users\foma9\RiderProjects\KDZ_3_3_Popov_3\LoggerLibrary\bin\Release\net6.0\ubuntu.22.04-x64\publish\LoggerLibrary.pdb
+C:\Users\foma9\RiderProjects\KDZ_3_3_Popov_3\LoggerLibrary\bin\Release\net6.0\ubuntu.22.04-x64\publish\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\foma9\RiderProjects\KDZ_3_3_Popov_3\LoggerLibrary\bin\Release\net6.0\ubuntu.22.04-x64\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\foma9\RiderProjects\KDZ_3_3_Popov_3\LoggerLibrary\bin\Release\net6.0\ubuntu.22.04-x64\publish\Microsoft.Extensions.Logging.dll
+C:\Users\foma9\RiderProjects\KDZ_3_3_Popov_3\LoggerLibrary\bin\Release\net6.0\ubuntu.22.04-x64\publish\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\foma9\RiderProjects\KDZ_3_3_Popov_3\LoggerLibrary\bin\Release\net6.0\ubuntu.22.04-x64\publish\Microsoft.Extensions.Options.dll
+C:\Users\foma9\RiderProjects\KDZ_3_3_Popov_3\LoggerLibrary\bin\Release\net6.0\ubuntu.22.04-x64\publish\Microsoft.Extensions.Primitives.dll
+C:\Users\foma9\RiderProjects\KDZ_3_3_Popov_3\LoggerLibrary\bin\Release\net6.0\ubuntu.22.04-x64\publish\System.Diagnostics.DiagnosticSource.dll

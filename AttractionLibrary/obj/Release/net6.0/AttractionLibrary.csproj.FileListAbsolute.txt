@@ -1,0 +1,11 @@
+C:\Users\foma9\RiderProjects\KDZ_3_3_Popov_3\AttractionLibrary\bin\Release\net6.0\AttractionLibrary.deps.json
+C:\Users\foma9\RiderProjects\KDZ_3_3_Popov_3\AttractionLibrary\bin\Release\net6.0\AttractionLibrary.dll
+C:\Users\foma9\RiderProjects\KDZ_3_3_Popov_3\AttractionLibrary\bin\Release\net6.0\AttractionLibrary.pdb
+C:\Users\foma9\RiderProjects\KDZ_3_3_Popov_3\AttractionLibrary\obj\Release\net6.0\AttractionLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foma9\RiderProjects\KDZ_3_3_Popov_3\AttractionLibrary\obj\Release\net6.0\AttractionLibrary.AssemblyInfoInputs.cache
+C:\Users\foma9\RiderProjects\KDZ_3_3_Popov_3\AttractionLibrary\obj\Release\net6.0\AttractionLibrary.AssemblyInfo.cs
+C:\Users\foma9\RiderProjects\KDZ_3_3_Popov_3\AttractionLibrary\obj\Release\net6.0\AttractionLibrary.csproj.CoreCompileInputs.cache
+C:\Users\foma9\RiderProjects\KDZ_3_3_Popov_3\AttractionLibrary\obj\Release\net6.0\AttractionLibrary.dll
+C:\Users\foma9\RiderProjects\KDZ_3_3_Popov_3\AttractionLibrary\obj\Release\net6.0\refint\AttractionLibrary.dll
+C:\Users\foma9\RiderProjects\KDZ_3_3_Popov_3\AttractionLibrary\obj\Release\net6.0\AttractionLibrary.pdb
+C:\Users\foma9\RiderProjects\KDZ_3_3_Popov_3\AttractionLibrary\obj\Release\net6.0\ref\AttractionLibrary.dll

@@ -1,0 +1,3 @@
+C:\Users\foma9\RiderProjects\KDZ_3_3_Popov_3\AttractionLibrary\bin\Release\net6.0\ubuntu.22.04-x64\publish\AttractionLibrary.dll
+C:\Users\foma9\RiderProjects\KDZ_3_3_Popov_3\AttractionLibrary\bin\Release\net6.0\ubuntu.22.04-x64\publish\AttractionLibrary.deps.json
+C:\Users\foma9\RiderProjects\KDZ_3_3_Popov_3\AttractionLibrary\bin\Release\net6.0\ubuntu.22.04-x64\publish\AttractionLibrary.pdb
